@@ -1,0 +1,21 @@
+Position  Pos,Club,Played  Pl,Won  W,Drawn  D,Lost  L,GF,GA,GD,Points  Pts
+1  Previous Position  2,Liverpool  LIV,19,12,6,1,39,16,+23,42
+2  Previous Position  1,Arsenal  ARS,18,12,4,2,36,16,+20,40
+3  Previous Position  3,Aston Villa  AVL,19,12,3,4,40,25,+15,39
+4  Previous Position  5,Manchester City  MCI,18,11,4,3,43,21,+22,37
+5  Previous Position  4,Tottenham Hotspur  TOT,18,11,3,4,37,24,+13,36
+6  Previous Position  8,Manchester United  MUN,19,10,1,8,21,25,-4,31
+7  Previous Position  6,West Ham United  WHU,18,9,3,6,31,30,+1,30
+8  Previous Position  7,Newcastle United  NEW,19,9,2,8,37,25,+12,29
+9  Previous Position  9,Brighton and Hove Albion  BHA,18,7,6,5,34,31,+3,27
+10  Previous Position  10,Chelsea  CHE,19,7,4,8,31,29,+2,25
+11  Previous Position  11,Wolverhampton Wanderers  WOL,19,7,4,8,27,31,-4,25
+12  Previous Position  12,Bournemouth  BOU,18,7,4,7,27,32,-5,25
+13  Previous Position  13,Fulham  FUL,19,6,3,10,26,34,-8,21
+14  Previous Position  14,Brentford  BRE,18,5,4,9,25,28,-3,19
+15  Previous Position  15,Crystal Palace  CRY,19,4,6,9,19,28,-9,18
+16  Previous Position  17,Nottingham Forest  NFO,19,4,5,10,22,34,-12,17
+17  Previous Position  16,Everton  EVE,19,8,2,9,24,25,-1,16
+18  Previous Position  18,Luton Town  LUT,18,4,3,11,21,34,-13,15
+19  Previous Position  19,Burnley  BUR,19,3,2,14,18,38,-20,11
+20  Previous Position  20,Sheffield United  SHU,19,2,3,14,15,47,-32,9
